@@ -8,11 +8,10 @@ I also hold three certifications from freeCodeCamp in **Scientific Computing wit
 
 ## 🛠️ Overview of Skills
 - **Programming Languages:** Python, R, SQL
-- **Data Analysis:** Exploratory Data Analysis, Visualisation, Statistical Modelling, Retention and Cohort Analysis
-- **Data Visualisation Tools:** Power BI, Tableau, Matplotlib, Seaborn
+- **Data Visualisation:** Power BI, Tableau, Matplotlib, Seaborn
 - **Machine Learning:** Regression Models, Classification, KNN, Deep Learning Basics
-- **Business Analytics:** Sales Funnels, A/B Testing, Customer Segmentation, RFM Analysis
-- **Soft Skills:** Storytelling with Data, Presentation, Communicating Insights Effectively
+- **Business Analytics:** Sales Funnels, A/B Testing, Customer Segmentation, RFM Analysis, Retention and Cohort Analysis
+- **Soft Skills:** Storytelling with Data, Presentation, Effective Insights  Communication
 
 ---
 
