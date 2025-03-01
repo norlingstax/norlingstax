@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anastasia!
 
-I'm currently pursuing my Master's in Data Analysis and actively seeking an internship in this field. Over the years, I've completed certifications and projects that helped me build strong skills in programming, data analysis, and machine learning. My most recent achievement is completing the **Data Analytics certification from Turing College** (January 2025), a comprehensive program that equipped me with diverse and industry-relevant skills.
+I'm currently pursuing my Master's in Data Analysis and actively seeking an internship in this field. Over the years, I've completed certifications and projects that helped me build strong skills in programming, data analysis, and machine learning. My most recent achievement is completing the **Data Analytics certification from Turing College** (March 2025), a comprehensive program that equipped me with diverse and industry-relevant skills.
 
 I also hold three certifications from freeCodeCamp in **Scientific Computing with Python**, **Data Analysis with Python**, and **Machine Learning with Python**, which provided a solid foundation for my technical expertise.
 
@@ -18,7 +18,7 @@ I also hold three certifications from freeCodeCamp in **Scientific Computing wit
 ## 📂 Portfolio Repositories
 
 ### [Turing-College-Projects](https://github.com/norlingstax/Turing-College-Projects)
-**Main Certification:** Data Analytics by Turing College (January 2025)  
+**Certification:** Data Analytics by Turing College (March 2025)  
 This repository showcases advanced analytics projects, including:
 - Retention and Cohort Analysis
 - RFM Analysis and Customer Segmentation
