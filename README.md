@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anastasia!
+# Hi, I'm Anastasia
 
 I'm currently pursuing a Master's degree in Data Analysis. Over the years, I've completed certifications and projects that helped me build strong skills in programming, data analysis, and machine learning. My most recent achievement is completing the **Data Analytics certification from Turing College** (March 2025), a comprehensive program that equipped me with diverse and industry-relevant skills.
 
@@ -6,7 +6,7 @@ I also hold three certifications from freeCodeCamp in **Scientific Computing wit
 
 ---
 
-## 🛠️ Overview of Skills
+## Overview of Skills
 - **Programming Languages:** Python, R, SQL
 - **Data Visualisation:** Power BI, Tableau, Matplotlib, Seaborn
 - **Machine Learning:** Regression Models, Classification, KNN, Deep Learning Basics
@@ -15,7 +15,7 @@ I also hold three certifications from freeCodeCamp in **Scientific Computing wit
 
 ---
 
-## 📂 Portfolio Repositories
+## Portfolio Repositories
 
 ### [Turing-College-Projects](https://github.com/norlingstax/Turing-College-Projects)
 **Certification:** Data Analytics by Turing College (March 2025)  
@@ -62,4 +62,4 @@ Projects include:
 
 ---
 
-Feel free to explore my repositories to learn more about my work!
+Feel free to explore my repositories to learn more about my work.
